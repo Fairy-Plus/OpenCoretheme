@@ -1,5 +1,8 @@
 预计今天到14号停更暂时维护
 
+
+我的网站地址：https://fairy-plus.github.io/OpenCoretheme/
+
 Opencore-霓虹灯主题
 
 
