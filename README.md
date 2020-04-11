@@ -1,7 +1,5 @@
 
 
-我的网站地址：https://fairy-plus.github.io/OpenCoretheme/
-
 Opencore-霓虹灯主题
 
 v1.0版介绍:
