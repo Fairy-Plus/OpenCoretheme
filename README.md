@@ -2,6 +2,7 @@
 Opencore-霓虹灯主题
 
 [![Github All Releases](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E9%9C%93%E8%99%B9%E7%81%AFOpencore%E4%B8%BB%E9%A2%98-green)](https://github.com/Fairy-Plus/OpenCoretheme/releases)
+
 v1.0版介绍:
 
 NdkBootPicker.efi必须位于EFI / OC / Drivers中并设置为在config.plist中加载。
