@@ -7,7 +7,7 @@ v1.0版介绍:
 
 NdkBootPicker.efi必须位于EFI / OC / Drivers中并设置为在config.plist中加载。
 
-Icons件夹需要复制到EFI / OC /目录根。
+Icons文件夹需要复制到EFI / OC /目录根。
 
 Config.plist设置其他Misc->引导Boot-> PickerMode = External 保存。
 
