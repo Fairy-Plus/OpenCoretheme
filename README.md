@@ -29,6 +29,6 @@ Bios日期/时间，超频版本可以通过空格键显示。
 
 ![Image text](https://github.com/Fairy-Plus/OpenCoretheme/blob/master/%E5%85%A8%E6%96%B0%E9%9C%93%E8%99%B9%E7%81%AF%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88/8152886D-30A5-4F82-ADC5-C33E07EFE31F.png)
 
-由仙女Plus移植
+由仙女Plus制作美化
 
 联系QQ：571926418
