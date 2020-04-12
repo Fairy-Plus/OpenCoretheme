@@ -28,6 +28,7 @@ Config.plist设置UEFI-UEFI->显示输出相关->控制台分辨率->输入Max�
 Bios日期/时间，超频版本可以通过空格键显示。
 
 新手常见问题：
+
 another gui is already present如果遇到此类问题->需要将Drivers文件里的OpenCanopy.efi还有Config.plist配置里的删除即可。
 
 屏幕快照可以使用F10拍摄。
