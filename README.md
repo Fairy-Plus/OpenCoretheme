@@ -15,9 +15,9 @@
 
 ![Image text](https://github.com/Fairy-Plus/OpenCoretheme/blob/master/%E5%85%A8%E6%96%B0%E9%9C%93%E8%99%B9%E7%81%AF%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88/8152886D-30A5-4F82-ADC5-C33E07EFE31F.png)
 
-v1.0版介绍:
+使用介绍:
 
-NdkBootPicker.efi必须位于EFI / OC / Drivers中并设置为在config.plist中加载。
+FairyPlus.efi必须位于EFI / OC / Drivers中并设置为在config.plist中加载。
 
 Icons文件夹需要复制到EFI / OC /目录根。
 
