@@ -31,6 +31,8 @@ Bios日期/时间，超频版本可以通过空格键显示。
 
 another gui is already present如果遇到此类问题->需要将Drivers文件里的OpenCanopy.efi还有Config.plist配置里的删除即可。
 
+功能介绍：
+
 屏幕快照可以使用F10拍摄。
 
 在主题模式下使用鼠标快捷键可以隐藏多余的盘符图标，键盘按空格键隐藏，方便查看主系统盘符图标。
