@@ -21,7 +21,9 @@ FairyPlus.efi必须位于EFI / OC / Drivers中并设置为在config.plist中加�
 
 Icons文件夹需要复制到EFI / OC /目录根。
 
-Config.plist设置其他Misc->引导Boot-> PickerMode = External 保存。
+Config.plist设置其他Misc->引导Boot-> PickerMode = External。
+
+Config.plist设置UEFI-UEFI->显示输出相关->控制台分辨率->输入Max最后保存。
 
 Bios日期/时间，超频版本可以通过空格键显示。
 
