@@ -41,7 +41,7 @@ Bios日期/时间，超频版本可以通过空格键显示。
 
 若遇到与我雷同主题并非仙女Plus本人参与，请大家认准在这里发布的内容（仙女Plus并没有与任何人有合作关系）。
 
-仙女Plus已经注释Icons文件内“FaieyPlus_xxx”命名，诺发现跟我GitHub发布预览图内容不符，请大家慎用...谢谢！
+仙女Plus已经注释Icons文件内“FaieyPlus_xxx”命名，诺发现跟我GitHub发布预览图并带有“FaieyPlus_xxx”命名的内容与我不符，请大家慎用...谢谢！
 
 由仙女Plus制作美化
 
