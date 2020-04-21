@@ -3,13 +3,21 @@
 
 # [![Github All Releases](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E9%9C%93%E8%99%B9%E7%81%AFOpencore%E4%B8%BB%E9%A2%98-green)](https://github.com/Fairy-Plus/OpenCoretheme/releases)
 
-霓虹灯OpenCore主题v1.0首发预览图：
+全新自创像素主题v1.0.2预览图(特别版)
+
+![Image text](https://raw.githubusercontent.com/Fairy-Plus/OpenCoretheme/master/%E5%85%A8%E6%96%B0%E8%87%AA%E5%88%9B%E5%83%8F%E7%B4%A0%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88%E5%9B%BE(%E7%89%B9%E5%88%AB%E7%89%88)/%E9%A2%84%E8%A7%88%E5%9B%BE2.png)
+
+![Image text](https://raw.githubusercontent.com/Fairy-Plus/OpenCoretheme/master/%E5%85%A8%E6%96%B0%E8%87%AA%E5%88%9B%E5%83%8F%E7%B4%A0%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88%E5%9B%BE(%E7%89%B9%E5%88%AB%E7%89%88)/%E9%A2%84%E8%A7%88%E5%9B%BE1.png)
+
+![Image text](https://raw.githubusercontent.com/Fairy-Plus/OpenCoretheme/master/%E5%85%A8%E6%96%B0%E8%87%AA%E5%88%9B%E5%83%8F%E7%B4%A0%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88%E5%9B%BE(%E7%89%B9%E5%88%AB%E7%89%88)/%E9%A2%84%E8%A7%88%E5%9B%BE3.png)
+
+霓虹灯OpenCore主题v1.0b首发预览图：
 
 ![Image text](https://github.com/Fairy-Plus/OpenCoretheme/blob/master/OC%E9%9C%93%E8%99%B9%E7%81%AF%E4%B8%BB%E9%A2%98v1.0%E9%A6%96%E5%8F%91%E9%A2%84%E8%A7%88%E5%9B%BE/E025B40B-59AE-4170-A1D0-B5BC2025BBEB.png)
 
 ![Image text](https://github.com/Fairy-Plus/OpenCoretheme/blob/master/OC%E9%9C%93%E8%99%B9%E7%81%AF%E4%B8%BB%E9%A2%98v1.0%E9%A6%96%E5%8F%91%E9%A2%84%E8%A7%88%E5%9B%BE/F3DB517E-6B7B-489B-86DB-9A53232994C4.png)
 
-全新霓虹灯OpenCore主题v1.0.1预览图：
+全新霓虹灯OpenCore主题v1.0.1b预览图：
 
 ![Image text](https://github.com/Fairy-Plus/OpenCoretheme/blob/master/%E5%85%A8%E6%96%B0%E9%9C%93%E8%99%B9%E7%81%AF%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88/67343381-A5B8-4450-B0C3-527561FB2D37.png)
 
