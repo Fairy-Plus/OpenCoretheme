@@ -3,6 +3,10 @@
 
 # [![Github All Releases](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E9%9C%93%E8%99%B9%E7%81%AFOpencore%E4%B8%BB%E9%A2%98-green)](https://github.com/Fairy-Plus/OpenCoretheme/releases)
 
+仙女plus温馨提醒(≧ω≦)/
+
+![Image text](https://raw.githubusercontent.com/Fairy-Plus/OpenCoretheme/master/It%20is%20forbidden%20to%20stay%20up%20late/DEBA116C-47BC-45D5-AD4F-44501D5336F9.jpeg)
+
 全新自创像素主题v1.0.2预览图(特别版)
 
 ![Image text](https://raw.githubusercontent.com/Fairy-Plus/OpenCoretheme/master/%E5%85%A8%E6%96%B0%E8%87%AA%E5%88%9B%E5%83%8F%E7%B4%A0%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88%E5%9B%BE(%E7%89%B9%E5%88%AB%E7%89%88)/%E9%A2%84%E8%A7%88%E5%9B%BE2.png)
