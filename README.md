@@ -1,6 +1,8 @@
 
 # Opencore-霓虹灯主题
 
+# 温馨提示：现有主题仅限opencore-V0.5.8版使用哦！
+
 # [![Github All Releases](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E9%9C%93%E8%99%B9%E7%81%AFOpencore%E4%B8%BB%E9%A2%98-green)](https://github.com/Fairy-Plus/OpenCoretheme/releases)
 
 仙女plus温馨提醒(≧ω≦)/
@@ -57,4 +59,4 @@ Bios日期/时间，超频版本可以通过空格键显示。
 
 由仙女Plus制作美化
 
-OpenCore霓虹灯主题-QQ群：628646194(此群已改为驱动维护)
+OpenCore霓虹灯主题-QQ群：628646194(此群已改为opencore驱动更新，停止对主题更新！)
