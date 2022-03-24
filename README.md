@@ -3,13 +3,18 @@
 
 # 现已推出：最新版主题beta版！！！
 
-# 温馨提示：现有的beta版与正式版v2.0主题支持oc V0.7.0以及更高新版本。其他较老版本(正式版)opencore主题-仅支持V0.5.8版使用哦！
+# 温馨提示：现有的beta版与正式版v2.0主题支持oc V0.7-0.8以及更高新版本。
+其他较老版本(正式版)opencore主题-仅支持V0.5.8版使用哦！
 
 # [![Github All Releases](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E9%9C%93%E8%99%B9%E7%81%AFOpencore%E4%B8%BB%E9%A2%98-green)](https://github.com/Fairy-Plus/OpenCoretheme/releases)
 
 仙女plus温馨提醒(≧ω≦)/
 
 ![Image text](https://raw.githubusercontent.com/Fairy-Plus/OpenCoretheme/master/It%20is%20forbidden%20to%20stay%20up%20late/DEBA116C-47BC-45D5-AD4F-44501D5336F9.jpeg)
+
+全新霓虹灯OpenCore主题v2.0预览图：
+
+![Image text](https://github.com/Fairy-Plus/OpenCoretheme/blob/master/D33DF671-1D7C-4D76-A996-16BBFB54D1E7.jpeg)
 
 全新自创像素主题v1.0.2预览图(特别版)
 
