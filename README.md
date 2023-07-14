@@ -3,7 +3,7 @@
 
 # 现已推出：最新版主题beta版与正式版v2.0
 
-# 温馨提示：现有的beta版与正式版v2.0主题支持oc V0.7-0.8以及更高新版本。
+# 温馨提示：现有的beta版与正式版v2.0主题支持oc V0.7-0.9以及更高新版本。
 其他较老版本(正式版)opencore主题-仅支持V0.5.8版使用哦！
 
 # [![Github All Releases](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-%E9%9C%93%E8%99%B9%E7%81%AFOpencore%E4%B8%BB%E9%A2%98-green)](https://github.com/Fairy-Plus/OpenCoretheme/releases)
@@ -36,7 +36,7 @@
 
 ![Image text](https://github.com/Fairy-Plus/OpenCoretheme/blob/master/%E5%85%A8%E6%96%B0%E9%9C%93%E8%99%B9%E7%81%AF%E4%B8%BB%E9%A2%98%E9%A2%84%E8%A7%88/8152886D-30A5-4F82-ADC5-C33E07EFE31F.png)
 
-使用介绍:
+旧版使用介绍:
 
 FairyPlus.efi必须位于EFI / OC / Drivers中并设置为在config.plist中加载。
 
